@@ -1,0 +1,5 @@
+n, m=input("").split()
+n=int(n)
+m=int(m)
+sum=abs(n-m)
+print(sum)
